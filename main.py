@@ -132,4 +132,4 @@ async def hello(ctx):
         return
 
 
-bot.run("MTE0OTY1NzQ0NDY3NTQ5NDAzOQ.GMn0KR.qYtdtom5qHkUr4ZmHAAct4lVt2A3pi5Hd6cs7s")
+bot.run("${{secrets.YOUR_SECRET_NAME}}")
